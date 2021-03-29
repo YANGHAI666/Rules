@@ -1,0 +1,9 @@
+DOMAIN,iosapps.itunes.apple.com,REJECT
+DOMAIN,apptrailers.itunes.apple.com,REJECT
+DOMAIN,appldnld.apple.com.akadns.net,REJECT
+DOMAIN,updates-http.cdn-apple.com,REJECT
+DOMAIN,streamingaudio.itunes.apple.com,REJECT
+DOMAIN,adcdownload.apple.com,REJECT
+DOMAIN,a1.phobos.apple.com,REJECT
+DOMAIN,osxapps.itunes.apple.com,REJECT
+DOMAIN,a272.phobos.apple.com,REJECT
